@@ -8,3 +8,13 @@
 body{
     font-family: 'Source Serif 4', sans-serif;
 }
+
+.fw {
+    color: rgba(230, 230, 230, 1);
+    font-size: 30px;
+    font-weight: 700;
+}
+.aside-buton > li
+{
+    margin-bottom: 10px;
+}
